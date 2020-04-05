@@ -17,7 +17,7 @@ Hereda su core de C++, aunque tiene una sintaxis mejorada es alta mente tipado.
 
 ----
 ## Programación asincrona
-# Instlación
+# Instalación
 
 **
 No es un leguaje orientado a objetos
